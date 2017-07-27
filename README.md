@@ -9,4 +9,4 @@ Requirements:
 
     Windows 7 or later
 
-    AutoHotKey (Any version)
+    AutoHotKey (v1)
