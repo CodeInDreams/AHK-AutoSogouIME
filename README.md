@@ -8,5 +8,4 @@ AHK script - set Sogou Pinyin IME as the default IME for specified programs.
 Requirements:
 
     Windows 7 or later
-
-    AutoHotKey (v1)
+    AutoHotKey (v1)
